@@ -14,4 +14,4 @@ You can git clone this repo directly into mods:
 cd {your Noita install dir}/mods/
 git clone https://github.com/andryshaa/shield-of-god.git
 ```
-Then enable the 'cheatgui' mod through the in-game pause menu.
+Then enable the 'Shield of god' mod through the in-game pause menu.
